@@ -4,7 +4,7 @@
 
 👾 Welcome to communicate with me‼️‼️
 
-
+<img src="https://access-counter.vercel.app/api/counter?name=waiwai24" />
 <div class="d-block">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=waiwai24&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" width="460" height="240" align="left" />
