@@ -1,6 +1,6 @@
 👀 Hi, my name is 🦘 waiwai❗
 
-🤖 I'm a undergraduate and I am interested in binary and CTF‼️
+👨‍💻 I'm a undergraduate and I am interested in binary and CTF‼️
 
 👾 Welcome to communicate with me‼️‼️
 
