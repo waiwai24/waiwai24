@@ -4,9 +4,9 @@
 
 👾 Welcome to communicate with me
 
-📚 my motto: The world is deep.And deeper than the day could read
+📚 Motto: The world is deep.And deeper than the day could read
 
-❤️ interest: iot, kernel, boxing and others to be developed
+❤️ Interest: iot, kernel, boxing and others to be developed
 
 <img src="https://access-counter.vercel.app/api/counter?name=waiwai24" />
 <div class="d-block">
