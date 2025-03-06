@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=waiwai24&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" width="460" height="240" align="left" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Github Readme Streak Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiwai24&hide=html&hide=css&hide=scss&layout=compact&theme=dark" alt="Top Languages" width="350" height="240" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiwai24&hide=html&layout=compact&theme=dark" alt="Top Languages" width="350" height="240" />
   </a>
 </div>
 <br>
