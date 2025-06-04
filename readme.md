@@ -1,12 +1,12 @@
 👀 Hi, my name is 🦘 waiwai
 
-👨‍💻 I'm a undergraduate and I am interested in binary and CTF
+👨‍💻 I'm an ordinary person
 
 👾 Welcome to communicate with me
 
 📚 Motto: The world is deep.And deeper than the day could read
 
-❤️ Interest: iot, kernel, boxing and others to be developed
+❤️ Interest: All the interesting things
 
 <img src="https://access-counter.vercel.app/api/counter?name=waiwai24" />
 <div class="d-block">
