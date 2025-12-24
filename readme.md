@@ -18,4 +18,3 @@
   </a>
 </div>
 <br>
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=waiwai24&theme=github-compact" title="Github Readme Activity Stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=waiwai24&theme=github-compact" alt="fabianocouto" width=99.8% /></a>
